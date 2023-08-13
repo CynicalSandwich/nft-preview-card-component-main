@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/CynicalSandwich/nft-preview-card-component-main](https://github.com/CynicalSandwich/nft-preview-card-component-main)
+- Live Site URL: [https://cynicalsandwich.github.io/nft-preview-card-component-main/](https://cynicalsandwich.github.io/nft-preview-card-component-main/)
 
 ## My process
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Pete Smith](https://github.com/CynicalSandwich)
 - Frontend Mentor - [@CynicalSandwich](https://www.frontendmentor.io/profile/CynicalSandwich)

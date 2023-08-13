@@ -145,6 +145,11 @@ a:hover {
 .eth_text {
     color: var(--cyan);
     font-weight: var(--regular);
+    white-space: nowrap;
+}
+
+.time_text {
+    white-space: nowrap;
 }
 
 .footer {
